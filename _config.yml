@@ -51,7 +51,7 @@ icon-192p: "/img/web-app/icon-192p.png"
 
 author: "Fernando Farias"
 lang: "en"
-title: "Yiown's Sensen"
+title: "Yiown's Library"
 favicon: "/img/favicon.ico"
 description: "Yiown's personal site where you can find solutions, methods and ideas... with the occasional ramblings."
 keywords: "yiown, personal, C++, Java"
@@ -78,7 +78,7 @@ delete-delay: 5000
 lines: # You can add HTML Tags in the Text
   - text: "Now you go out of this world."
   - text: "The master has failed more times than the student have tried."
-  - text: "Why do we fall ? ..."
+  - text: "Why do we fall? So we can learn to pick ourselves up."
 
 ########
 # Blog #
@@ -97,7 +97,7 @@ linkedin-share: True
 tumblr-share: True
 pinterest-share: True
 vkontakte-share: True
-disqus-shortname: "yiown"
+disqus-shortname: "yiown-com"
 
 ###############
 # Life Events #
@@ -106,11 +106,11 @@ disqus-shortname: "yiown"
 events:
   - image: "/img/timeline/globallogic.jpg"
     date: "June 2010 - Today"
-    description: "Started coding"
+    description: "Tech Leader at GlobalLogic"
 
 # First image of the Timeline
 
-timeline-img: "/img/timeline/default.png"
+timeline-img: "/img/timeline/default.jpg"
 
 ##################
 # Contact layout #
