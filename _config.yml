@@ -74,7 +74,7 @@ loop: True
 loop-count: False # Set False for infinite loop, or set any number for finite loop.
 type-speed: 10
 start-delay: 200
-delete-delay: 5000
+delete-delay: 10000
 lines: # You can add HTML Tags in the Text
   - text: "Now you go out of this world."
   - text: "The master has failed more times than the student have tried."
@@ -123,12 +123,16 @@ email: "yiowns@gmail.com"
 ##################
 
 social:
-  - title: "facebook"
-    url: "https://facebook.com/yiowns"
-  - title: "twitter"
-    url: "https://twitter.com/yiowns"
+  - title: "linkedin"
+    url: "https://ar.linkedin.com/in/fernando-farias-4000227b"
   - title: "github"
     url: "https://github.com/yiown"
+  - title: "facebook"
+    url: "https://facebook.com/yiowns"
+  - title: "google-plus"
+    url: "https://plus.google.com/u/0/+FernandoFariasOrtiz"
+  - title: "twitter"
+    url: "https://twitter.com/yiowns"
   - title: "rss"
     url: "/feed.xml"
 
