@@ -1,0 +1,2655 @@
+{
+  "slides": [
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 80,
+          "y": 23,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 98,
+          "text": "<font color=\"#eeeeee\">Web C++ for Games</font>",
+          "selected": false,
+          "skewY": 0
+        },
+        {
+          "src": "http://1u88jj3r4db2x4txp44yqfj1.wpengine.netdna-cdn.com/wp-content/uploads/2015/08/unreal-engine-4.jpg",
+          "type": "Image",
+          "x": 2,
+          "y": 167,
+          "scale": {
+            "x": 0.7183098591549297,
+            "y": 0.7183098591549297,
+            "width": 1020.0000000000002,
+            "height": 525.8028169014086
+          },
+          "imageType": "JPG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 0,
+      "selected": false,
+      "active": false,
+      "x": 140,
+      "y": 100
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 427,
+          "y": 0,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 36,
+          "text": "<font color=\"#eeeeee\" face=\"Lato\">Geometry</font>",
+          "selected": false
+        },
+        {
+          "src": "http://www.worldofleveldesign.com/categories/ue4/images/012-ue4-crash-course-00.jpg",
+          "type": "Image",
+          "x": 21,
+          "y": 154,
+          "scale": {
+            "x": 1.6333333333333333,
+            "y": 1.6333333333333333,
+            "width": 980,
+            "height": 491.6333333333333
+          },
+          "imageType": "JPG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 1,
+      "selected": false,
+      "active": false,
+      "x": 400,
+      "y": 100
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 435,
+          "y": 28,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 36,
+          "text": "<font color=\"#eeeeee\" face=\"Lato\">Geometry</font>",
+          "selected": false
+        },
+        {
+          "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Mesh_overview.svg/720px-Mesh_overview.svg.png",
+          "type": "Image",
+          "x": 5,
+          "y": 184,
+          "scale": {
+            "x": 1.4013888888888888,
+            "y": 1.4013888888888888,
+            "width": 1008.9999999999999,
+            "height": 379.77638888888885
+          },
+          "imageType": "PNG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 2,
+      "selected": false,
+      "active": false,
+      "x": 660,
+      "y": 100
+    },
+    {
+      "components": [
+        {
+          "src": "http://i.imgur.com/zNIb22K.jpg",
+          "type": "Image",
+          "x": 10,
+          "y": 131,
+          "scale": {
+            "x": 2.059670781893004,
+            "y": 2.059670781893004,
+            "width": 1000.9999999999999,
+            "height": 560.230452674897
+          },
+          "imageType": "JPG",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 434,
+          "y": 28,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 36,
+          "text": "<font color=\"#eeeeee\" face=\"Lato\">Normals</font>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 3,
+      "selected": false,
+      "active": false,
+      "x": 920,
+      "y": 100
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 451,
+          "y": 14,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 36,
+          "text": "<font color=\"#eeeeee\" face=\"Lato\">Normals</font>",
+          "selected": false
+        },
+        {
+          "src": "http://i.imgur.com/FEKVq5U.png",
+          "type": "Image",
+          "x": 5,
+          "y": 111,
+          "scale": {
+            "x": 0.7937500000000001,
+            "y": 0.7937500000000001,
+            "width": 1016.0000000000001,
+            "height": 571.5
+          },
+          "imageType": "PNG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 4,
+      "selected": false,
+      "active": false,
+      "x": 1180,
+      "y": 100
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 434,
+          "y": 28,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 36,
+          "text": "<font color=\"#eeeeee\" face=\"Lato\">Culling</font>",
+          "selected": false
+        },
+        {
+          "src": "http://help.autodesk.com/cloudhelp/2015/ENU/MAXScript-Help/images/GUID-C5FC6976-CE4C-4DED-93FB-B51EC4F9E7CC-low.gif",
+          "type": "Image",
+          "x": 9,
+          "y": 183,
+          "scale": {
+            "x": 1.7293729372937294,
+            "y": 1.7293729372937294,
+            "width": 524,
+            "height": 389.1089108910891
+          },
+          "imageType": "GIF",
+          "selected": false
+        },
+        {
+          "src": "http://uploads.gamedev.net/monthly_06_2011/ccs-8549-0-37824600-1307791268.gif",
+          "type": "Image",
+          "x": 549,
+          "y": 154,
+          "scale": {
+            "x": 2.275,
+            "y": 2.275,
+            "width": 455,
+            "height": 455
+          },
+          "imageType": "GIF",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 5,
+      "selected": false,
+      "active": false,
+      "x": 140,
+      "y": 280
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 483,
+          "y": 40,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 36,
+          "text": "<font color=\"#eeeeee\" face=\"Lato\">Colors</font>",
+          "selected": false
+        },
+        {
+          "src": "http://www.tomdalling.com/images/posts/modern-opengl-07/800px-Phong_components_version_4.png",
+          "type": "Image",
+          "x": 24,
+          "y": 227,
+          "scale": {
+            "x": 1.235,
+            "y": 1.235,
+            "width": 988.0000000000001,
+            "height": 275.40500000000003
+          },
+          "imageType": "PNG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 6,
+      "selected": false,
+      "active": false,
+      "x": 400,
+      "y": 280
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 442,
+          "y": 39,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 36,
+          "text": "<font color=\"#eeeeee\" face=\"Lato\">Specular</font>",
+          "selected": false
+        },
+        {
+          "src": "http://i0.wp.com/blog.digitaltutors.com/wp-content/uploads/2014/01/Specularity.jpg",
+          "type": "Image",
+          "x": 9,
+          "y": 129,
+          "scale": {
+            "x": 1.2575,
+            "y": 1.2575,
+            "width": 1006,
+            "height": 565.875
+          },
+          "imageType": "JPG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 7,
+      "selected": false,
+      "active": false,
+      "x": 660,
+      "y": 280
+    },
+    {
+      "components": [
+        {
+          "src": "http://www.tomdalling.com/images/posts/modern-opengl-07/double_gamma.jpg",
+          "type": "Image",
+          "x": 119,
+          "y": 124,
+          "scale": {
+            "x": 1.2890625,
+            "y": 1.2890625,
+            "width": 825,
+            "height": 618.75
+          },
+          "imageType": "JPG",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 470,
+          "y": 52,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 36,
+          "text": "<font color=\"#eeeeee\" face=\"Lato\">Gamma</font>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 8,
+      "selected": false,
+      "active": false,
+      "x": 920,
+      "y": 280
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 386,
+          "y": 40,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 36,
+          "text": "<font color=\"#eeeeee\">Texture Mapping</font>",
+          "selected": false
+        },
+        {
+          "src": "http://i2.wp.com/blog.digitaltutors.com/wp-content/uploads/2014/01/Texture_Mapping.jpg",
+          "type": "Image",
+          "x": 13,
+          "y": 110,
+          "scale": {
+            "x": 1.25625,
+            "y": 1.25625,
+            "width": 1005.0000000000001,
+            "height": 565.3125
+          },
+          "imageType": "JPG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 9,
+      "selected": false,
+      "active": false,
+      "x": 1180,
+      "y": 280
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 342,
+          "y": 29,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 36,
+          "text": "<font color=\"#eeeeee\" face=\"Lato\">Transparency Mapping</font>",
+          "selected": false
+        },
+        {
+          "src": "http://i0.wp.com/blog.digitaltutors.com/wp-content/uploads/2014/01/Transparency_Map.jpg",
+          "type": "Image",
+          "x": 20,
+          "y": 112,
+          "scale": {
+            "x": 1.24375,
+            "y": 1.24375,
+            "width": 994.9999999999999,
+            "height": 559.6875
+          },
+          "imageType": "JPG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 10,
+      "selected": false,
+      "active": false,
+      "x": 140,
+      "y": 460
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 410,
+          "y": 13,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 36,
+          "text": "<font face=\"Lato\" color=\"#eeeeee\">Overbright</font>",
+          "selected": false
+        },
+        {
+          "src": "http://i968.photobucket.com/albums/ae170/Strasserbenjamin/overheadbeam3.jpg",
+          "type": "Image",
+          "x": 63,
+          "y": 81,
+          "scale": {
+            "x": 1.1324999999999998,
+            "y": 1.1324999999999998,
+            "width": 905.9999999999999,
+            "height": 678.3675
+          },
+          "imageType": "JPG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 11,
+      "selected": false,
+      "active": false,
+      "x": 400,
+      "y": 460
+    },
+    {
+      "components": [
+        {
+          "src": "http://i0.wp.com/blog.digitaltutors.com/wp-content/uploads/2014/01/Light_Baking.jpg",
+          "type": "Image",
+          "x": 31,
+          "y": 151,
+          "scale": {
+            "x": 1.205,
+            "y": 1.205,
+            "width": 964,
+            "height": 542.25
+          },
+          "imageType": "JPG",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 374,
+          "y": 51,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 36,
+          "text": "<font color=\"#eeeeee\" face=\"Lato\">Render To Texture</font>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 12,
+      "selected": false,
+      "active": false,
+      "x": 660,
+      "y": 460
+    },
+    {
+      "components": [
+        {
+          "src": "https://developer.xamarin.com/samples/urho/FeatureSamples%5CCore%5C09_MultipleViewports/Screenshots/Screenshot.png",
+          "type": "Image",
+          "x": 71,
+          "y": 64,
+          "scale": {
+            "x": 0.8742690058479533,
+            "y": 0.8742690058479533,
+            "width": 897.0000000000001,
+            "height": 699.4152046783627
+          },
+          "imageType": "PNG",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 449,
+          "y": 9,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 36,
+          "text": "<font color=\"#eeeeee\" face=\"Lato\">Viewport</font>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 13,
+      "selected": false,
+      "active": false,
+      "x": 920,
+      "y": 460
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 388,
+          "y": 29,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 36,
+          "text": "<font color=\"#eeeeee\" face=\"Lato\">Bump Mapping</font>",
+          "selected": false
+        },
+        {
+          "src": "http://i0.wp.com/blog.digitaltutors.com/wp-content/uploads/2014/01/Bump_Map.jpg",
+          "type": "Image",
+          "x": 23,
+          "y": 119,
+          "scale": {
+            "x": 1.24,
+            "y": 1.24,
+            "width": 992,
+            "height": 558
+          },
+          "imageType": "JPG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 14,
+      "selected": false,
+      "active": false,
+      "x": 1180,
+      "y": 460
+    },
+    {
+      "components": [
+        {
+          "src": "http://i2.wp.com/blog.digitaltutors.com/wp-content/uploads/2014/01/Normal_Maps.jpg",
+          "type": "Image",
+          "x": 34,
+          "y": 121,
+          "scale": {
+            "x": 1.1875,
+            "y": 1.1875,
+            "width": 950,
+            "height": 534.375
+          },
+          "imageType": "JPG",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 391,
+          "y": 51,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 36,
+          "text": "<font color=\"#eeeeee\" face=\"Lato\">Normal Mapping</font>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 382,
+          "y": 671,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 36,
+          "text": "<font color=\"#eeeeee\" face=\"Lato\">( normal vs bump ? )</font>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 15,
+      "selected": false,
+      "active": false,
+      "x": 140,
+      "y": 640
+    },
+    {
+      "components": [
+        {
+          "src": "http://static1.gamespot.com/uploads/original/1160/11602415/2891884-4080754477-Batma.jpg",
+          "type": "Image",
+          "x": 13,
+          "y": 133,
+          "scale": {
+            "x": 1.0612903225806452,
+            "y": 1.0612903225806452,
+            "width": 987,
+            "height": 528.5225806451613
+          },
+          "imageType": "JPG",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 460,
+          "y": 18,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 36,
+          "text": "<font color=\"#eeeeee\" face=\"Lato\">Tessellation</font>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 16,
+      "selected": false,
+      "active": false,
+      "x": 400,
+      "y": 640
+    },
+    {
+      "components": [
+        {
+          "src": "https://www.cs.duke.edu/courses/compsci344/spring15/classwork/15_shading/gl-pipeline.png",
+          "type": "Image",
+          "x": -36,
+          "y": 143,
+          "scale": {
+            "x": 1.065,
+            "y": 1.065,
+            "width": 1065,
+            "height": 206.60999999999999
+          },
+          "imageType": "PNG",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 430,
+          "y": 5,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 36,
+          "text": "<font color=\"#eeeeee\" face=\"Lato\">Fragments</font>",
+          "selected": false
+        },
+        {
+          "src": "https://tobias.rautenkranz.ch/halftone/halftone.png",
+          "type": "Image",
+          "x": 218,
+          "y": 363,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "imageType": "PNG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 17,
+      "selected": false,
+      "active": false,
+      "x": 660,
+      "y": 640
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 469,
+          "y": 32,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 36,
+          "text": "<font color=\"#eeeeee\" face=\"Lato\">Shaders</font>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 23,
+          "y": 87,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 16,
+          "text": "<font color=\"#eeeeee\"><font face=\"Lato\">void main() {<br></font>&nbsp; &nbsp; vec3 normal = normalize(transpose(inverse(mat3(model))) * fragNormal);<br>&nbsp; &nbsp; vec3 surfacePos = vec3(model * vec4(fragVert, 1));<br>&nbsp; &nbsp; vec4 surfaceColor = texture(materialTex, fragTexCoord);<br>&nbsp; &nbsp; vec3 surfaceToLight = normalize(light.position - surfacePos);<br>&nbsp; &nbsp; vec3 surfaceToCamera = normalize(cameraPosition - surfacePos);<br>&nbsp; &nbsp;&nbsp;<br>&nbsp; &nbsp; //ambient<br>&nbsp; &nbsp; vec3 ambient = light.ambientCoefficient * surfaceColor.rgb * light.intensities;<br><br>&nbsp; &nbsp; //diffuse<br>&nbsp; &nbsp; float diffuseCoefficient = max(0.0, dot(normal, surfaceToLight));<br>&nbsp; &nbsp; vec3 diffuse = diffuseCoefficient * surfaceColor.rgb * light.intensities;<br>&nbsp; &nbsp;&nbsp;<br>&nbsp; &nbsp; //specular<br>&nbsp; &nbsp; float specularCoefficient = 0.0;<br>&nbsp; &nbsp; if(diffuseCoefficient &gt; 0.0)<br>&nbsp; &nbsp; &nbsp; &nbsp; specularCoefficient = pow(max(0.0, dot(surfaceToCamera, reflect(-surfaceToLight, normal))), materialShininess);<br>&nbsp; &nbsp; vec3 specular = specularCoefficient * materialSpecularColor * light.intensities;<br>&nbsp; &nbsp;&nbsp;<br>&nbsp; &nbsp; //attenuation<br>&nbsp; &nbsp; float distanceToLight = length(light.position - surfacePos);<br>&nbsp; &nbsp; float attenuation = 1.0 / (1.0 + light.attenuation * pow(distanceToLight, 2));<br><br>&nbsp; &nbsp; //linear color (color before gamma correction)<br>&nbsp; &nbsp; vec3 linearColor = ambient + attenuation*(diffuse + specular);<br>&nbsp; &nbsp;&nbsp;<br>&nbsp; &nbsp; //final color (after gamma correction)<br>&nbsp; &nbsp; vec3 gamma = vec3(1.0/2.2);<br>&nbsp; &nbsp; finalColor = vec4(pow(linearColor, gamma), surfaceColor.a);<br>}</font><br>",
+          "selected": false
+        },
+        {
+          "src": "http://www.bitmanagement.de/developer/contact/examples/shader/images/teapot_shader_perpixel.jpg",
+          "type": "Image",
+          "x": 517,
+          "y": 431,
+          "scale": {
+            "x": 0.7358778625954199,
+            "y": 0.7358778625954199,
+            "width": 482,
+            "height": 306.12519083969465
+          },
+          "imageType": "JPG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 18,
+      "selected": false,
+      "active": false,
+      "x": 920,
+      "y": 640
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 430,
+          "y": 5,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 36,
+          "text": "<font color=\"#eeeeee\" face=\"Lato\">The Pipeline</font>",
+          "selected": false
+        },
+        {
+          "src": "https://josepjroca.files.wordpress.com/2015/08/oglcs.jpg",
+          "type": "Image",
+          "x": 13,
+          "y": 113,
+          "scale": {
+            "x": 0.6699999999999999,
+            "y": 0.6699999999999999,
+            "width": 1004.9999999999999,
+            "height": 565.4799999999999
+          },
+          "imageType": "JPG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 19,
+      "selected": false,
+      "active": false,
+      "x": 1180,
+      "y": 640
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 469,
+          "y": 32,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 36,
+          "text": "<font color=\"#eeeeee\" face=\"Lato\">Shaders</font>",
+          "selected": false
+        },
+        {
+          "src": "https://forums.unrealengine.com/attachment.php?attachmentid=4368&d=1401816081",
+          "type": "Image",
+          "x": 6,
+          "y": 123,
+          "scale": {
+            "x": 0.5457481162540366,
+            "y": 0.5457481162540366,
+            "width": 1014.0000000000001,
+            "height": 589.4079655543595
+          },
+          "imageType": "PHP",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 20,
+      "selected": false,
+      "active": false,
+      "x": 140,
+      "y": 820
+    },
+    {
+      "components": [
+        {
+          "src": "https://forums.unrealengine.com/attachment.php?attachmentid=14136&d=1413290614",
+          "type": "Image",
+          "x": 118,
+          "y": 81,
+          "scale": {
+            "x": 0.7078853046594983,
+            "y": 0.7078853046594983,
+            "width": 790.0000000000001,
+            "height": 661.8727598566309
+          },
+          "imageType": "PHP",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 462,
+          "y": 14,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 36,
+          "text": "<font color=\"#eeeeee\" face=\"Lato\">Shaders</font>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 21,
+      "selected": false,
+      "active": false,
+      "x": 400,
+      "y": 820
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 444,
+          "y": 18,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 36,
+          "text": "<font color=\"#eeeeee\" face=\"Lato\">Motion Blur</font>",
+          "selected": false
+        },
+        {
+          "src": "http://i.imgur.com/xnGbDts.gif",
+          "type": "Image",
+          "x": 18,
+          "y": 164,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "imageType": "GIF",
+          "selected": false
+        },
+        {
+          "src": "http://mmoparadise.com/files/game_screens/Need_for_speed_world_blur_original.jpg",
+          "type": "Image",
+          "x": 440,
+          "y": 208,
+          "scale": {
+            "x": 0.7930555555555555,
+            "y": 0.7930555555555555,
+            "width": 571,
+            "height": 356.875
+          },
+          "imageType": "JPG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 22,
+      "selected": false,
+      "active": false,
+      "x": 660,
+      "y": 820
+    },
+    {
+      "components": [
+        {
+          "src": "http://gaspull.geeksaresexytech.netdna-cdn.com/wp-content/uploads/2015/06/fpsdemo1.gif",
+          "type": "Image",
+          "x": 298,
+          "y": 122,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "imageType": "GIF",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 462,
+          "y": 14,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 36,
+          "text": "<font color=\"#eeeeee\" face=\"Lato\">SPEED</font>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 88,
+          "y": 571,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 96,
+          "text": "<font face=\"Lato\"><font color=\"#eeeeee\">1 s / 60 fps =</font></font><font color=\"#ffe500\">16.7 ms</font><font face=\"Lato\"><br></font>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 23,
+      "selected": false,
+      "active": false,
+      "x": 920,
+      "y": 820
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 489,
+          "y": 2,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 36,
+          "text": "<font color=\"#eeeeee\" face=\"Lato\">GPU</font>",
+          "selected": false
+        },
+        {
+          "src": "https://tech4gamers.com/wp-content/uploads/2015/03/NVIDIA-GM200-Block-Diagram.png",
+          "type": "Image",
+          "x": 9,
+          "y": 59,
+          "scale": {
+            "x": 0.5527777777777777,
+            "y": 0.5527777777777777,
+            "width": 994.9999999999999,
+            "height": 699.8166666666666
+          },
+          "imageType": "PNG",
+          "selected": false
+        },
+        {
+          "src": "http://cdn.wccftech.com/wp-content/uploads/2014/09/NVIDIA-Maxwell-GM204.jpg",
+          "type": "Image",
+          "x": 425,
+          "y": 428,
+          "scale": {
+            "x": 0.3210412147505422,
+            "y": 0.3210412147505422,
+            "width": 591.9999999999998,
+            "height": 332.5986984815617
+          },
+          "imageType": "JPG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 24,
+      "selected": false,
+      "active": false,
+      "x": 1180,
+      "y": 820
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 445,
+          "y": 13,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 36,
+          "text": "<font color=\"#eeeeee\" face=\"Lato\">OpenGL</font>",
+          "selected": false
+        },
+        {
+          "src": "http://image.slidesharecdn.com/gpu-to-web-siggraph-asianov13-131121092642-phpapp02/95/gpu-to-web-siggraph-asia-16-638.jpg?cb=1385544763",
+          "type": "Image",
+          "x": 5,
+          "y": 114,
+          "scale": {
+            "x": 1.5830721003134796,
+            "y": 1.5830721003134796,
+            "width": 1010,
+            "height": 568.3228840125391
+          },
+          "imageType": "JPG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 25,
+      "selected": false,
+      "active": false,
+      "x": 140,
+      "y": 1000
+    },
+    {
+      "components": [
+        {
+          "src": "http://www.extremetech.com/wp-content/uploads/2013/05/epic-citadel-html5-screenshot-1.jpg",
+          "type": "Image",
+          "x": 3,
+          "y": 108,
+          "scale": {
+            "x": 0.5288912024986986,
+            "y": 0.5288912024986986,
+            "width": 1016,
+            "height": 634.6694429984383
+          },
+          "imageType": "JPG",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 429,
+          "y": 24,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 36,
+          "text": "<font color=\"#eeeeee\" face=\"Lato\">Juegos Web</font><br>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 26,
+      "selected": false,
+      "active": false,
+      "x": 400,
+      "y": 1000
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 135,
+          "y": 303,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 144,
+          "text": "<font face=\"Lato\" color=\"#ffce00\"><b>GAMEPLAY</b></font>",
+          "selected": false
+        },
+        {
+          "src": "http://brutalgamer.com/wp-content/uploads/2012/06/sonic-speedy-gameplay.jpg",
+          "type": "Image",
+          "x": 14,
+          "y": 93,
+          "scale": {
+            "x": 0.20937500000000003,
+            "y": 0.20937500000000003,
+            "width": 402.00000000000006,
+            "height": 226.12500000000003
+          },
+          "imageType": "JPG",
+          "selected": false
+        },
+        {
+          "src": "http://images.en.yibada.com/data/images/full/70994/clash-of-clan-enthusiasts-and-players-are-seeking-out-ways-to-win-the-game.jpg",
+          "type": "Image",
+          "x": 655,
+          "y": 496,
+          "scale": {
+            "x": 0.4866666666666668,
+            "y": 0.4866666666666668,
+            "width": 365.0000000000001,
+            "height": 205.3733333333334
+          },
+          "imageType": "JPG",
+          "selected": false
+        },
+        {
+          "src": "http://vignette1.wikia.nocookie.net/sims/images/9/95/First-details-on-the-sims-freeplay-20111123115130772_640w.jpg/revision/latest?cb=20111130221831",
+          "type": "Image",
+          "x": 10,
+          "y": 470,
+          "scale": {
+            "x": 0.5015625,
+            "y": 0.5015625,
+            "width": 321,
+            "height": 240.75
+          },
+          "imageType": "JPG/REVISION/LATEST",
+          "selected": false
+        },
+        {
+          "src": "http://s01.riotpixels.net/data/17/52/1752b0e4-503c-49f9-878c-511b1401ee34.jpg/screenshot.need-for-speed-no-limits.2048x1536.2015-03-27.15.jpg",
+          "type": "Image",
+          "x": 343,
+          "y": 481,
+          "scale": {
+            "x": 0.14990234375,
+            "y": 0.14990234375,
+            "width": 307,
+            "height": 230.25
+          },
+          "imageType": "JPG",
+          "selected": false
+        },
+        {
+          "src": "http://4d663a369f9f03c3c61e-870e77779efd63f7bd6c2ee08d8cfae6.r2.cf1.rackcdn.com/images/tFuAEoFVsd8L.878x0.Z-Z96KYq.jpg",
+          "type": "Image",
+          "x": 533,
+          "y": 48,
+          "scale": {
+            "x": 0.5432801822323462,
+            "y": 0.5432801822323462,
+            "width": 476.99999999999994,
+            "height": 268.380410022779
+          },
+          "imageType": "JPG",
+          "selected": false
+        },
+        {
+          "src": "http://www.technobuffalo.com/wp-content/uploads/2015/11/Fallout-4-10-1280x720.jpg",
+          "type": "Image",
+          "x": 295,
+          "y": 14,
+          "scale": {
+            "x": 0.30234375,
+            "y": 0.30234375,
+            "width": 387,
+            "height": 217.68750000000003
+          },
+          "imageType": "JPG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 27,
+      "selected": false,
+      "active": false,
+      "x": 660,
+      "y": 1000
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 360,
+          "y": 13,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 36,
+          "text": "<font color=\"#eeeeee\" face=\"Lato\">STATE MACHINE</font>",
+          "selected": false
+        },
+        {
+          "src": "http://i.imgur.com/T7NVBVe.png",
+          "type": "Image",
+          "x": 110,
+          "y": 95,
+          "scale": {
+            "x": 1.221774193548387,
+            "y": 1.221774193548387,
+            "width": 606,
+            "height": 634.1008064516128
+          },
+          "imageType": "PNG",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 735,
+          "y": 244,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 36,
+          "text": "<ul><li><font color=\"#00e1ff\"><span style=\"font-family: Lato; line-height: normal;\">Estados</span><br></font></li><li><span style=\"font-family: Lato; line-height: normal;\"><font color=\"#00e1ff\">Transiciones</font></span><br></li></ul>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 739,
+          "y": 429,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 36,
+          "text": "<ul><li><font color=\"#00e1ff\" face=\"Lato\"><span style=\"line-height: normal;\">Eventos</span></font></li><li><font color=\"#00e1ff\" face=\"Lato\"><span style=\"line-height: normal;\">Acciones</span></font></li></ul>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 28,
+      "selected": false,
+      "active": false,
+      "x": 920,
+      "y": 1000
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 360,
+          "y": 13,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 36,
+          "text": "<font color=\"#eeeeee\" face=\"Lato\">STATE MACHINE</font>",
+          "selected": false
+        },
+        {
+          "src": "https://forums.unrealengine.com/attachment.php?attachmentid=7275&d=1406080143",
+          "type": "Image",
+          "x": 6,
+          "y": 152,
+          "scale": {
+            "x": 0.8325082508250825,
+            "y": 0.8325082508250825,
+            "width": 1009,
+            "height": 452.0519801980198
+          },
+          "imageType": "PHP",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 29,
+      "selected": false,
+      "active": false,
+      "x": 1180,
+      "y": 1000
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 99,
+          "y": 228,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 36,
+          "text": "<font color=\"#eeeeee\"><font face=\"Lato\">- Simulation (procedurals)<br>- Graphics<br>- Physics<br>- Audio<br>- Input<br>- Network<br></font>- Artificial Inteligence<br>- Scripts (sequences)</font><br>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 466,
+          "y": 28,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 36,
+          "text": "<font color=\"#eeeeee\" face=\"Lato\">Elements</font>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 674,
+          "y": 339,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 36,
+          "text": "<font face=\"Lato\" color=\"#ffe500\">GAME LOOP<br><div style=\"text-align: center;\">&lt; 16ms</div></font>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 30,
+      "selected": false,
+      "active": false,
+      "x": 140,
+      "y": 1180
+    },
+    {
+      "components": [
+        {
+          "src": "https://opengamingalliance.org/assets/uploads/press/2015-core-gamers-press-release-b.png",
+          "type": "Image",
+          "x": 119,
+          "y": 107,
+          "scale": {
+            "x": 1.2704,
+            "y": 1.2704,
+            "width": 794,
+            "height": 644.0928
+          },
+          "imageType": "PNG",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 378,
+          "y": 20,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 36,
+          "text": "<font color=\"#eeeeee\" face=\"Lato\">Mutliplataforma</font>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 31,
+      "selected": false,
+      "active": false,
+      "x": 400,
+      "y": 1180
+    },
+    {
+      "components": [
+        {
+          "src": "https://docs.unrealengine.com/latest/images/Support/Builds/ReleaseNotes/2015/4_10/image_7.jpg",
+          "type": "Image",
+          "x": 9,
+          "y": 122,
+          "scale": {
+            "x": 0.8358333333333333,
+            "y": 0.8358333333333333,
+            "width": 1003,
+            "height": 372.78166666666664
+          },
+          "imageType": "JPG",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 378,
+          "y": 20,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 36,
+          "text": "<font color=\"#eeeeee\" face=\"Lato\">Mutliplataforma</font>",
+          "selected": false
+        },
+        {
+          "src": "http://urho3d.github.io/assets/images/logo.png",
+          "type": "Image",
+          "x": 248,
+          "y": 567,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "imageType": "PNG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 32,
+      "selected": false,
+      "active": false,
+      "x": 660,
+      "y": 1180
+    },
+    {
+      "components": [
+        {
+          "src": "http://pbs.twimg.com/media/CIIBCM3WcAE1QTo.jpg",
+          "type": "Image",
+          "x": 26,
+          "y": 19,
+          "scale": {
+            "x": 1.2449999999999999,
+            "y": 1.2449999999999999,
+            "width": 746.9999999999999,
+            "height": 466.87499999999994
+          },
+          "imageType": "JPG",
+          "selected": false
+        },
+        {
+          "src": "http://aras-p.info/blog/wp-content/uploads/2009/03/cppaccident.jpg",
+          "type": "Image",
+          "x": 572,
+          "y": 383,
+          "scale": {
+            "x": 0.8479532163742689,
+            "y": 0.8479532163742689,
+            "width": 434.99999999999994,
+            "height": 370.5555555555555
+          },
+          "imageType": "JPG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 33,
+      "selected": false,
+      "active": false,
+      "x": 920,
+      "y": 1180
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 28,
+          "y": 218,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 36,
+          "text": "<ul><li><font color=\"#eeeeee\"><span style=\"line-height: normal;\">Fácil para humanos y también para herramientas de humanos</span><br></font></li><li><font color=\"#eeeeee\"><span style=\"line-height: normal;\">Mantenibilidad, rectitud, exactitud, expresión</span><br></font></li><li><font color=\"#eeeeee\"><span style=\"line-height: normal;\">Modular, distribuible</span><br></font></li><li><font color=\"#eeeeee\"><span style=\"line-height: normal;\">Manejo efectivo de los recursos</span><br></font></li><li><font color=\"#eeeeee\"><span style=\"line-height: normal;\">Thread safe, a menos que existan razones para no</span><br></font></li><li><font color=\"#eeeeee\"><span style=\"line-height: normal;\">Eficiencia, estructuras de datos compactas</span><br></font></li><li><font color=\"#eeeeee\"><span style=\"line-height: normal;\">Portabilidad, a menos que existan razones para no</span><br></font></li><li><font color=\"#eeeeee\"><span style=\"line-height: normal;\">Síntesis integrada, que todo trabaje al unísono</span><br></font></li><li><span style=\"line-height: normal;\"><font color=\"#eeeeee\">Estándares y guías : estilo</font></span><br></li><li><span style=\"line-height: normal;\"><font color=\"#eeeeee\">Validación estática de tipos de datos</font></span></li><li><span style=\"line-height: normal;\"><font color=\"#eeeeee\">No leaks   ( y sin gc )</font></span></li></ul>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 336,
+          "y": 63,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 48,
+          "text": "<font face=\"Lato\" color=\"#9e9e9e\"><b>Objetivos de C++</b></font>",
+          "selected": false
+        },
+        {
+          "src": "http://www.hartmannsoftware.com/images/cpp-logo.png",
+          "type": "Image",
+          "x": 60,
+          "y": 18,
+          "scale": {
+            "x": 0.26875,
+            "y": 0.26875,
+            "width": 215,
+            "height": 161.25
+          },
+          "imageType": "PNG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 34,
+      "selected": false,
+      "active": false,
+      "x": 1180,
+      "y": 1180
+    },
+    {
+      "components": [
+        {
+          "src": "http://i.imgur.com/2UABwHh.png",
+          "type": "Image",
+          "x": -163,
+          "y": 58,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "imageType": "PNG",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 392,
+          "y": 5,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 48,
+          "text": "<font color=\"#9e9e9e\"><b>Topografia</b></font>",
+          "selected": false
+        },
+        {
+          "src": "http://weknowmemes.com/generator/uploads/generated/g1362678263447948274.jpg",
+          "type": "Image",
+          "x": 601,
+          "y": 487,
+          "scale": {
+            "x": 0.8354166666666666,
+            "y": 0.8354166666666666,
+            "width": 400.99999999999994,
+            "height": 258.14374999999995
+          },
+          "imageType": "JPG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 35,
+      "selected": false,
+      "active": false,
+      "x": 140,
+      "y": 1360,
+      "markdown": ""
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 239,
+          "y": 9,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 48,
+          "text": "<b><font color=\"#9e9e9e\">Generacion de Ejecutables</font></b>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 354,
+          "y": 248,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 36,
+          "text": "<font color=\"#eeeeee\" face=\"Lato\">cada .cpp separado y todo .h relacionado</font>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 349,
+          "y": 372,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 36,
+          "text": "<font color=\"#eeeeee\" face=\"Lato\">unidad de compilacion en codigo maquina</font><br>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 347,
+          "y": 498,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 36,
+          "text": "<font color=\"#eeeeee\" face=\"Lato\">todo .lib y .o en mismo espacio direcciones</font>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 349,
+          "y": 625,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 36,
+          "text": "<font color=\"#eeeeee\" face=\"Lato\">unico ejecutable en codigo maquina</font>",
+          "selected": false
+        },
+        {
+          "src": "http://i.imgur.com/Yt4K8At.png",
+          "type": "Image",
+          "x": -3,
+          "y": 77,
+          "scale": {
+            "x": 1.515695067264574,
+            "y": 1.515695067264574,
+            "width": 338,
+            "height": 638.1076233183857
+          },
+          "imageType": "PNG",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 356,
+          "y": 122,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 36,
+          "text": "<font color=\"#eeeeee\" face=\"Lato\">letras de colores</font>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 36,
+      "selected": false,
+      "active": false,
+      "x": 400,
+      "y": 1360
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 449,
+          "y": 3,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 48,
+          "text": "<font color=\"#9e9e9e\"><b>Clases</b></font>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 89,
+          "y": 115,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 36,
+          "text": "<font face=\"Lato\"><font color=\"#ecff00\">class</font><font color=\"#eeeeee\"> A {</font><br><font color=\"#ecff00\">private</font><font color=\"#eeeeee\">:</font><br><font color=\"#eeeeee\">&nbsp; &nbsp; int p;</font><br><font color=\"#ecff00\">protected</font><font color=\"#eeeeee\">:</font><br><font color=\"#eeeeee\">&nbsp; &nbsp; double d;</font><br><font color=\"#ecff00\">public</font><font color=\"#eeeeee\">:</font><br><font color=\"#eeeeee\">&nbsp; &nbsp; A() {}; </font><font color=\"#9e9e9e\">// constructor</font><br><font color=\"#eeeeee\">&nbsp; &nbsp; ~A() {}; </font><font color=\"#9e9e9e\">// destructor</font><br><font color=\"#eeeeee\">&nbsp; &nbsp; </font><font color=\"#9e9e9e\">// member function</font><br><font color=\"#eeeeee\">&nbsp; &nbsp; void print() const {</font><br><font color=\"#eeeeee\">&nbsp; &nbsp; &nbsp; &nbsp; std::cout &lt;&lt; p &lt;&lt; ' ' <br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &lt;&lt; d &lt;&lt; std::endl;</font><br><font color=\"#eeeeee\">&nbsp; &nbsp; }</font><br><font color=\"#eeeeee\">};</font><br></font>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 662,
+          "y": 106,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 36,
+          "text": "<font face=\"Lato\"><font color=\"#eeeeee\">int </font><font color=\"#9e9e9e\">main</font><font color=\"#eeeeee\">()<br>{<br>&nbsp; &nbsp; </font><font color=\"#ecff00\">A a1;</font><br><font color=\"#eeeeee\">&nbsp; &nbsp; </font><font color=\"#ecff00\">a1.</font><font color=\"#eeeeee\">print();</font><br><br><font color=\"#eeeeee\">&nbsp; &nbsp; A </font><font color=\"#ecff00\">a2{}</font><font color=\"#eeeeee\">;</font><br><font color=\"#eeeeee\">&nbsp; &nbsp; a2.print();</font><br><br><font color=\"#eeeeee\">&nbsp; &nbsp; </font><font color=\"#ff0000\">A a3();</font><br><br><font color=\"#eeeeee\">&nbsp; &nbsp;&nbsp;</font><font color=\"#ecff00\">A().</font><font color=\"#eeeeee\">print();</font><br><br><font color=\"#eeeeee\">&nbsp; &nbsp; return 0;</font><br><font color=\"#eeeeee\">}</font><br></font>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 37,
+      "selected": false,
+      "active": false,
+      "x": 660,
+      "y": 1360,
+      "markdown": ""
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 412,
+          "y": 4,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 48,
+          "text": "<font color=\"#9e9e9e\"><b>Herencia</b></font>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 17,
+          "y": 99,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 36,
+          "text": "<font face=\"Lato\"><font color=\"#ecff00\">class</font><font color=\"#eeeeee\"> A {</font><br><font color=\"#ecff00\">public</font><font color=\"#eeeeee\">:</font><br><font color=\"#eeeeee\">&nbsp; &nbsp; </font><font color=\"#ecff00\">virtual</font><font color=\"#eeeeee\"> <br>&nbsp; &nbsp; &nbsp; &nbsp; std::string name() const {<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; return \"A\";<br>&nbsp; &nbsp; }<br>};</font><br></font>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 16,
+          "y": 423,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 36,
+          "text": "<font face=\"Lato\"><font color=\"#ecff00\">class</font><font color=\"#eeeeee\">&nbsp;B : public A {</font><br><font color=\"#ecff00\">public</font><font color=\"#eeeeee\">:</font><br><font color=\"#eeeeee\">&nbsp; &nbsp; </font><font color=\"#ecff00\">virtual</font><font color=\"#eeeeee\"> <br>&nbsp; &nbsp; &nbsp; &nbsp; std::string name() const {<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; return \"B\";<br>&nbsp; &nbsp; }<br>};</font><br></font>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 552,
+          "y": 92,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 36,
+          "text": "<font face=\"Lato\"><font color=\"#eeeeee\">void </font><font color=\"#9e9e9e\">printName</font><font color=\"#eeeeee\">(</font><font color=\"#ecff00\">const</font><font color=\"#eeeeee\"> A </font><font color=\"#ecff00\">&amp;</font><font color=\"#eeeeee\">a) {<br>&nbsp; &nbsp; std::cout &lt;&lt; <br>&nbsp; &nbsp; &nbsp; &nbsp; a.name() &lt;&lt; std::endl;<br>}<br>int </font><font color=\"#9e9e9e\">main</font><font color=\"#eeeeee\">()&nbsp;{<br>&nbsp; &nbsp; printName(B());<br>&nbsp; &nbsp; return 0;<br>}</font><br></font>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 557,
+          "y": 508,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 36,
+          "text": "<font face=\"Lato\"><b>Consola:</b><br><font color=\"#eeeeee\">B</font><br></font>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 38,
+      "selected": false,
+      "active": false,
+      "x": 920,
+      "y": 1360,
+      "markdown": ""
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 17,
+          "y": 99,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 36,
+          "text": "<font face=\"Lato\"><font color=\"#ecff00\">class</font><font color=\"#eeeeee\"> A {</font><br><font color=\"#ecff00\">public</font><font color=\"#eeeeee\">:</font><br><font color=\"#eeeeee\">&nbsp; &nbsp; </font><font color=\"#ecff00\">virtual</font><font color=\"#eeeeee\"> <br>&nbsp; &nbsp; &nbsp; &nbsp; std::string name() const {<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; return \"A\";<br>&nbsp; &nbsp; }<br>};</font><br></font>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 16,
+          "y": 423,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 36,
+          "text": "<font face=\"Lato\"><font color=\"#ecff00\">class</font><font color=\"#eeeeee\">&nbsp;B : public A {</font><br><font color=\"#ecff00\">public</font><font color=\"#eeeeee\">:</font><br><font color=\"#eeeeee\">&nbsp; &nbsp; </font><font color=\"#ecff00\">virtual</font><font color=\"#eeeeee\"> <br>&nbsp; &nbsp; &nbsp; &nbsp; std::string name() const {<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; return \"B\";<br>&nbsp; &nbsp; }<br>};</font><br></font>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 374,
+          "y": 2,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 48,
+          "text": "<font color=\"#9e9e9e\"><b>Polimorfismo</b></font>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 550,
+          "y": 79,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 36,
+          "text": "<font face=\"Lato\"><font color=\"#eeeeee\">void </font><font color=\"#9e9e9e\">printName</font><font color=\"#eeeeee\">(const A &amp;a) {<br>&nbsp; &nbsp; std::cout &lt;&lt; <br>&nbsp; &nbsp; &nbsp; &nbsp; a.name() &lt;&lt; std::endl;<br>}<br>int </font><font color=\"#9e9e9e\">main</font><font color=\"#eeeeee\">()&nbsp;{<br>&nbsp; &nbsp; </font><font color=\"#ecff00\">std::vector&lt;A&gt;</font><font color=\"#eeeeee\"> as;<br>&nbsp; &nbsp; as.</font><font color=\"#ecff00\">push_back</font><font color=\"#eeeeee\">(A());<br>&nbsp; &nbsp; as.</font><font color=\"#ecff00\">push_back</font><font color=\"#eeeeee\">(B());<br>&nbsp; &nbsp; </font><font color=\"#ecff00\">for(auto&amp; e : as)</font><br><font color=\"#eeeeee\">&nbsp; &nbsp; &nbsp; &nbsp; printName(e);</font><br><font color=\"#eeeeee\">&nbsp; &nbsp; return 0;</font><br><font color=\"#eeeeee\">}</font><br></font>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 549,
+          "y": 619,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 36,
+          "text": "<font face=\"Lato\"><b>Consola:</b><br><font color=\"#eeeeee\">A<br>A &nbsp; &nbsp;&nbsp;</font><font color=\"#b00000\"><b>&lt;---</b></font><br></font>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 39,
+      "selected": false,
+      "active": false,
+      "x": 1180,
+      "y": 1360
+    },
+    {
+      "components": [
+        {
+          "src": "http://i.imgur.com/uwKTFuA.png",
+          "type": "Image",
+          "x": 123,
+          "y": 120,
+          "scale": {
+            "x": 1.5686653771760155,
+            "y": 1.5686653771760155,
+            "width": 811,
+            "height": 624.3288201160542
+          },
+          "imageType": "PNG",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 422,
+          "y": 23,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 48,
+          "text": "<font color=\"#9e9e9e\"><b>Punteros ?!</b></font>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 40,
+      "selected": false,
+      "active": false,
+      "x": 138,
+      "y": 1540
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 17,
+          "y": 99,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 36,
+          "text": "<font face=\"Lato\"><font color=\"#ecff00\">class</font><font color=\"#eeeeee\"> A {</font><br><font color=\"#ecff00\">public</font><font color=\"#eeeeee\">:</font><br><font color=\"#eeeeee\">&nbsp; &nbsp; </font><font color=\"#ecff00\">virtual</font><font color=\"#eeeeee\"> <br>&nbsp; &nbsp; &nbsp; &nbsp; std::string name() const {<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; return \"A\";<br>&nbsp; &nbsp; }<br>};</font><br></font>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 16,
+          "y": 423,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 36,
+          "text": "<font face=\"Lato\"><font color=\"#ecff00\">class</font><font color=\"#eeeeee\">&nbsp;B : public A {</font><br><font color=\"#ecff00\">public</font><font color=\"#eeeeee\">:</font><br><font color=\"#eeeeee\">&nbsp; &nbsp; </font><font color=\"#ecff00\">virtual</font><font color=\"#eeeeee\"> <br>&nbsp; &nbsp; &nbsp; &nbsp; std::string name() const {<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; return \"B\";<br>&nbsp; &nbsp; }<br>};</font><br></font>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 177,
+          "y": -1,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 48,
+          "text": "<font color=\"#9e9e9e\"><b>Polimorfismo</b></font>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 551,
+          "y": 40,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 36,
+          "text": "<font face=\"Lato\"><font color=\"#eeeeee\">void </font><font color=\"#9e9e9e\">printName</font><font color=\"#eeeeee\">(const A &amp;a) {<br>&nbsp; &nbsp; std::cout &lt;&lt; <br>&nbsp; &nbsp; &nbsp; &nbsp; a.name() &lt;&lt; std::endl;<br>}<br>int </font><font color=\"#9e9e9e\">main</font><font color=\"#eeeeee\">()&nbsp;{<br>&nbsp; &nbsp; std::vector&lt;<br></font><font color=\"#ecff00\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; std::unique_ptr&lt;A&gt;</font><font color=\"#eeeeee\">&nbsp;&gt; as;<br>&nbsp; &nbsp; as.</font><font color=\"#ecff00\">emplace_back</font><font color=\"#eeeeee\">(</font><font color=\"#ecff00\">new</font><font color=\"#eeeeee\"> A);<br>&nbsp; &nbsp; as.</font><font color=\"#ecff00\">emplace_back</font><font color=\"#eeeeee\">(</font><font color=\"#ecff00\">new</font><font color=\"#eeeeee\"> B);<br>&nbsp; &nbsp; for(auto&amp; e : as)<br>&nbsp; &nbsp; &nbsp; &nbsp; printName(</font><font color=\"#ecff00\">*</font><font color=\"#eeeeee\">e);<br>&nbsp; &nbsp; return 0;<br>}</font><br></font>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 549,
+          "y": 619,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 36,
+          "text": "<font face=\"Lato\"><b>Consola:</b><br><font color=\"#eeeeee\">A<br>B &nbsp; &nbsp;&nbsp;</font><b><font color=\"#00ff1d\">&lt;---</font></b><br></font>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 41,
+      "selected": false,
+      "active": false,
+      "x": 400,
+      "y": 1540
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 92,
+          "y": 31,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 64,
+          "text": "<font color=\"#eeeeee\" face=\"Lato\">STL: Standard Template Library</font>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 393,
+          "y": 156,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 48,
+          "text": "<ul><li><span style=\"font-family: Lato; color: rgb(238, 238, 238); line-height: normal;\">Containers</span><br></li><li><span style=\"color: rgb(238, 238, 238); line-height: normal;\">Iterators</span><br></li><li><span style=\"color: rgb(238, 238, 238); line-height: normal;\">Algorithms</span><br></li><li><span style=\"color: rgb(238, 238, 238); line-height: normal;\">Functions</span></li></ul>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 89,
+          "y": 426,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 64,
+          "text": "<font color=\"#eeeeee\" face=\"Lato\">Boost Libraries</font>",
+          "selected": false
+        },
+        {
+          "src": "http://www.boost.org/doc/libs/1_60_0/boost.png",
+          "type": "Image",
+          "x": 588,
+          "y": 425,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "imageType": "PNG",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 408,
+          "y": 517,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 48,
+          "text": "<ul><li><span style=\"font-family: Lato; color: rgb(238, 238, 238); line-height: normal;\">Math</span><br></li><li><span style=\"color: rgb(238, 238, 238); line-height: normal;\">Data</span><br></li><li><span style=\"color: rgb(238, 238, 238); line-height: normal;\">Image</span><br></li><li><span style=\"color: rgb(238, 238, 238); line-height: normal;\">...</span></li></ul>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 42,
+      "selected": false,
+      "active": false,
+      "x": 662,
+      "y": 1537
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 392,
+          "y": 11,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 36,
+          "text": "<font color=\"#eeeeee\" face=\"Lato\">STL - Containers</font>",
+          "selected": false
+        },
+        {
+          "src": "http://i.stack.imgur.com/G70oT.png",
+          "type": "Image",
+          "x": 164,
+          "y": 59,
+          "scale": {
+            "x": 0.7225609756097561,
+            "y": 0.7225609756097561,
+            "width": 711,
+            "height": 696.5487804878048
+          },
+          "imageType": "PNG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 43,
+      "selected": true,
+      "active": true,
+      "x": 920,
+      "y": 1540
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 36,
+          "y": 106,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 28,
+          "text": "<div style=\"text-align: center;\"><b><font color=\"#00b8ff\">Nunca punteros desnudos</font></b></div><span style=\"color: rgb(238, 238, 238);\"><div style=\"text-align: left;\"><ul><li><span style=\"line-height: normal;\">Son artefactos de nivel de implementación</span><br></li><li><span style=\"text-align: center; line-height: normal;\">Mantenerlos fuera de las interfaces</span><br></li><li><span style=\"line-height: normal;\">Preferir smart pointers - mayormente std::unique_ptr y a veces std::shared_ptr</span><br></li></ul></div><div style=\"text-align: left;\"></div></span><div style=\"text-align: center;\"><b><font color=\"#00b8ff\">Nunca new o delete desnudos</font></b></div><font color=\"#eeeeee\"><ul><li><span style=\"line-height: normal;\">Son artefactos de nivel de implementación para manejadores de recursos</span><br></li></ul></font><span style=\"text-align: center;\"><font><div style=\"text-align: center;\"><font color=\"#00b8ff\"><b>Regresar “por valor” usando move semantics</b></font></div></font></span><span style=\"color: rgb(238, 238, 238);\"><ul><li><span style=\"line-height: normal;\">Mantenerse alejado de las indirecciones</span><br></li></ul></span><div style=\"text-align: center;\"><b style=\"color: rgb(0, 184, 255);\">Mantener el alto nivel</b></div><span style=\"color: rgb(238, 238, 238);\"><ul><li><span style=\"line-height: normal;\">STL tiene cero overhead y en algunos puntos corre más rápido que C.</span><br></li></ul></span><div style=\"text-align: center;\"><font color=\"#00b8ff\"><b>No bajar de nivel… todavía</b></font></div><span style=\"color: rgb(238, 238, 238);\"><ul><li><span style=\"line-height: normal;\">Sobreoptimización puede llevar a bugs, y usualmente no tiene beneficio alguno.</span><br></li><li><span style=\"line-height: normal;\">Más código, más complejo, lleva a más errores, más difíciles de descifrar.</span><br></li></ul></span><div style=\"text-align: center;\"><b><font color=\"#00b8ff\">Usar herencia solo para conceptos jerárquicos</font></b></div><span style=\"color: rgb(238, 238, 238);\"><ul><li><span style=\"line-height: normal;\">No forzar OO sobre conceptos claramente no OO</span><br></li><li><span style=\"line-height: normal;\">Ha sido severamente y sistemáticamente abusado y mal usado.</span><br></li><li><span style=\"line-height: normal;\">“Cuando solo tienes un martillo, todo parece un clavo”</span></li></ul></span><br>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 404,
+          "y": 3,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 48,
+          "text": "<b><font color=\"#9e9e9e\">Estilo C++</font></b>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 44,
+      "selected": false,
+      "active": false,
+      "x": 1180,
+      "y": 1540
+    },
+    {
+      "components": [
+        {
+          "src": "http://i.imgur.com/4WUBBu2.jpg",
+          "type": "Image",
+          "x": 125,
+          "y": 78,
+          "scale": {
+            "x": 1.985,
+            "y": 1.985,
+            "width": 794,
+            "height": 595.5
+          },
+          "imageType": "JPG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 45,
+      "selected": false,
+      "active": false,
+      "x": 140,
+      "y": 1720,
+      "surface": "bg-surf-grad-black"
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 385,
+          "y": 198,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 96,
+          "text": "<font color=\"#eeeeee\" face=\"Lato\">XDSD</font>",
+          "selected": false,
+          "skewX": 0
+        },
+        {
+          "TextBox": {},
+          "x": 187,
+          "y": 368,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 64,
+          "text": "<font color=\"#eeeeee\" face=\"Lato\">eXtremely Distributed<br>Software Development<br></font>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 46,
+      "selected": false,
+      "active": false,
+      "x": 400,
+      "y": 1720
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 50,
+          "y": 180,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 24,
+          "text": "<font color=\"#eeeeee\" face=\"Lato\">void printSometing(const std::string&amp; str){<br>&nbsp; &nbsp; </font><font face=\"Lato\"><font color=\"#ffe500\">//TODO print the thing</font><br><font color=\"#eeeeee\">}</font><br><br><font color=\"#eeeeee\">int main() {</font><br><font color=\"#eeeeee\">&nbsp; &nbsp; //...</font><br><font color=\"#eeeeee\">&nbsp; &nbsp; printSomething(str);</font><br><font color=\"#eeeeee\">&nbsp; &nbsp; //...</font><br><font color=\"#eeeeee\">}</font><br></font>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 475,
+          "y": 13,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 36,
+          "text": "<font face=\"Lato\" color=\"#eeeeee\">XDSD</font>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 549,
+          "y": 346,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 36,
+          "text": "<font color=\"#eeeeee\" face=\"Lato\">git push</font><br>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 846,
+          "y": 449,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 36,
+          "text": "<font color=\"#eeeeee\" face=\"Lato\">issue<br></font>",
+          "selected": false
+        },
+        {
+          "src": "http://www.clipartbest.com/cliparts/9T4/egy/9T4egyzXc.png",
+          "type": "Image",
+          "x": 395,
+          "y": 231,
+          "scale": {
+            "x": 0.27651515151515155,
+            "y": 0.27651515151515155,
+            "width": 73.00000000000001,
+            "height": 164.8030303030303
+          },
+          "imageType": "PNG",
+          "selected": false,
+          "rotate": 1.56
+        },
+        {
+          "src": "http://www.clipartbest.com/cliparts/9T4/egy/9T4egyzXc.png",
+          "type": "Image",
+          "x": 701,
+          "y": 364,
+          "scale": {
+            "x": 0.27651515151515155,
+            "y": 0.27651515151515155,
+            "width": 73.00000000000001,
+            "height": 164.8030303030303
+          },
+          "imageType": "PNG",
+          "selected": false,
+          "rotate": 1.56
+        },
+        {
+          "src": "http://www.clipartbest.com/cliparts/9T4/egy/9T4egyzXc.png",
+          "type": "Image",
+          "x": 458,
+          "y": 389,
+          "scale": {
+            "x": 0.27651515151515155,
+            "y": 0.27651515151515155,
+            "width": 73.00000000000001,
+            "height": 164.8030303030303
+          },
+          "imageType": "PNG",
+          "selected": false,
+          "rotate": 3.74
+        },
+        {
+          "TextBox": {},
+          "x": 67,
+          "y": 544,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 24,
+          "text": "<font color=\"#eeeeee\" face=\"Lato\">void printSometing(const std::string&amp; str){<br>&nbsp; &nbsp; </font><font face=\"Lato\"><font color=\"#eeeeee\">//TODO </font><font color=\"#ffe500\">#42</font><font color=\"#eeeeee\"> print the thing<br>}<br></font><br></font>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 47,
+      "selected": false,
+      "active": false,
+      "x": 660,
+      "y": 1720
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 390,
+          "y": 4,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 72,
+          "text": "<font color=\"#eeeeee\" face=\"Lato\">Proyecto</font><br>",
+          "selected": false
+        },
+        {
+          "src": "https://upload.wikimedia.org/wikipedia/en/2/2a/Galaga.png",
+          "type": "Image",
+          "x": 73,
+          "y": 126,
+          "scale": {
+            "x": 1.8840000000000001,
+            "y": 1.8840000000000001,
+            "width": 471.00000000000006,
+            "height": 606.648
+          },
+          "imageType": "PNG",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 569,
+          "y": 319,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 36,
+          "text": "<font color=\"#eeeeee\" face=\"Lato\">Galaga (ギャラガ Gyaraga)<br>fixed shooter arcade game<br>developed by Namco Japan<br><div style=\"text-align: center;\">1981.</div></font>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 48,
+      "selected": false,
+      "active": false,
+      "x": 920,
+      "y": 1720
+    },
+    {
+      "components": [
+        {
+          "src": "http://i.imgur.com/Mg8da3H.jpg",
+          "type": "Image",
+          "x": 4,
+          "y": 84,
+          "scale": {
+            "x": 0.5286458333333335,
+            "y": 0.5286458333333335,
+            "width": 1015.0000000000002,
+            "height": 570.9375000000001
+          },
+          "imageType": "JPG",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 340,
+          "y": -6,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 64,
+          "text": "<font face=\"Lato\" color=\"#9e9e9e\">Preguntas ? ...</font>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 49,
+      "selected": false,
+      "active": false,
+      "x": 1180,
+      "y": 1720,
+      "background": "bg-transparent"
+    }
+  ],
+  "background": "bg-solid-darkgreen",
+  "activeSlide": {
+    "components": [
+      {
+        "TextBox": {},
+        "x": 392,
+        "y": 11,
+        "scale": {
+          "x": 1,
+          "y": 1
+        },
+        "type": "TextBox",
+        "size": 36,
+        "text": "<font color=\"#eeeeee\" face=\"Lato\">STL - Containers</font>",
+        "selected": false
+      },
+      {
+        "src": "http://i.stack.imgur.com/G70oT.png",
+        "type": "Image",
+        "x": 164,
+        "y": 59,
+        "scale": {
+          "x": 0.7225609756097561,
+          "y": 0.7225609756097561,
+          "width": 711,
+          "height": 696.5487804878048
+        },
+        "imageType": "PNG",
+        "selected": false
+      }
+    ],
+    "z": 0,
+    "impScale": 3,
+    "rotateX": 0,
+    "rotateY": 0,
+    "rotateZ": 0,
+    "index": 43,
+    "selected": true,
+    "active": true,
+    "x": 920,
+    "y": 1540
+  },
+  "fileName": "presentation-1",
+  "surface": "bg-surf-grad-black",
+  "deckVersion": "1.0",
+  "customBackgrounds": {
+    "bgs": []
+  },
+  "overviewX": 659,
+  "overviewY": 910
+}
